@@ -1,0 +1,6 @@
+D:\dawid\CWICZENIA NR 2\Dodatek\bin\Debug\Dodatek.exe.config
+D:\dawid\CWICZENIA NR 2\Dodatek\bin\Debug\Dodatek.exe
+D:\dawid\CWICZENIA NR 2\Dodatek\bin\Debug\Dodatek.pdb
+D:\dawid\CWICZENIA NR 2\Dodatek\obj\Debug\Dodatek.csprojResolveAssemblyReference.cache
+D:\dawid\CWICZENIA NR 2\Dodatek\obj\Debug\Dodatek.exe
+D:\dawid\CWICZENIA NR 2\Dodatek\obj\Debug\Dodatek.pdb
